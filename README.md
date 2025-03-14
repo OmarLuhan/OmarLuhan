@@ -4,7 +4,7 @@
 <img src="https://imgur.com/ekiEVzC.png">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCR4OxTu8pEuxW0Ip1R8p3hQ?style=social)](https://youtube.com/@luhan-omar?sub_confirmation=1)
-[![GitHub followers](https://img.shields.io/github/followers/OmarLuhan?style=social)](https://github.com/OmarLuhan)
+[![GitHub followers](https://img.shields.io/github/followers/omarluhan?style=social)](https://github.com/OmarLuhan)
 
 ## Sobre mi
 
