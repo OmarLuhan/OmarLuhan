@@ -3,6 +3,16 @@
 </div>
 <img src="https://imgur.com/ekiEVzC.png">
 
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCR4OxTu8pEuxW0Ip1R8p3hQ?style=social)](https://youtube.com/@luhan-omar?sub_confirmation=1)
+[![GitHub followers](https://img.shields.io/github/followers/OmarLuhan?style=social)](https://github.com/OmarLuhan)
+
+## Sobre mi
+
+- ✒️ Software engineer 
+- 💻 Backend developer 
+- 🎥 Te enseño a programar servidores [Youtube](https://youtube.com/@luhan-omar?sub_confirmation=1) (+200 subs)
+<br>
+
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/OmarLuhan">
