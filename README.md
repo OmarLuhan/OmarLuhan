@@ -40,10 +40,10 @@
 <a href="https://crisfarma.net.pe" target="_blank"><img src="https://imgur.com/iuGdHyV.png" width="400" alt="API Rest N Capas"></a>
 <br>
 <p>
-<a href="https://github.com/OmarLuhan/Farma_api.git" target="_blank">
+<a href="https://github.com/OmarLuhan/Pharmacy-API.git" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://github.com/OmarLuhan/Farma_api.git" target="_blank">
+<a href="https://youtube.com/@luhan-omar?sub_confirmation=1" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
