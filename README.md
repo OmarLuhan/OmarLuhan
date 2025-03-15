@@ -37,7 +37,7 @@
                <br>
 <h3 align="center">API Rest con arquitectura N capas</h3>
 <div align="center">                                       
-<a href="https://github.com/OmarLuhan/Farma_api.git" target="_blank"><img src="#" width="400" alt="API Rest N Capas"></a>
+<a href="https://crisfarma.net.pe" target="_blank"><img src="https://imgur.com/l99tmML.png" width="400" alt="API Rest N Capas"></a>
 <br>
 <p>
 <a href="https://github.com/OmarLuhan/Farma_api.git" target="_blank">
