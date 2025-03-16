@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://vlu.code">Luhan</a> 👋</h1>
 </div>
-<img src="https://imgur.com/ekiEVzC.png">
+<img src="https://imgur.com/DO2K6v1.png">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCR4OxTu8pEuxW0Ip1R8p3hQ?style=social)](https://youtube.com/@luhan-omar?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/omarluhan?style=social)](https://github.com/OmarLuhan)
