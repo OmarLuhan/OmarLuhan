@@ -61,10 +61,10 @@ Este proyecto aplica conceptos como inyección de dependencias, ORMs, mapeadores
 <div align="center">
 <a href="#" target="_blank"><img src="https://imgur.com/davqCL6.png" width="400" alt="Panel React"></a>
 <p>
-<a href="#" target="_blank">
+<a href="https://github.com/OmarLuhan/Pharmacy-web.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="#" target="_blank">
+<a href="https://youtube.com/@luhan-omar?sub_confirmation=1" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
@@ -81,7 +81,7 @@ productos, lotes,registro de ingresos , registros de salidas, reportes , grafico
 <a href="#" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="#" target="_blank">
+<a href="https://youtube.com/@luhan-omar?sub_confirmation=1" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
 </a>
 </p>
