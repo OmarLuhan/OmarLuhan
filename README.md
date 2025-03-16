@@ -59,7 +59,7 @@ Este proyecto aplica conceptos como inyección de dependencias, ORMs, mapeadores
 <td width="50%">
 <h3 align="center">APP React flow bite</h3>
 <div align="center">
-<a href="#" target="_blank"><img src="#" width="400" alt="Panel React"></a>
+<a href="#" target="_blank"><img src="https://imgur.com/davqCL6.png" width="400" alt="Panel React"></a>
 <p>
 <a href="#" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -74,9 +74,9 @@ productos, lotes,registro de ingresos , registros de salidas, reportes , grafico
                                                                                       
 </td>       
 <td width="50%">
-<h3 align="center">Futuro proyecto en Blazor</h3>
+<h3 align="center">E commerce Blazor</h3>
 <div align="center">
-<a href="#" target="_blank"><img src="#" width="400" alt="Panel de administracion en Blazor"></a>
+<a href="#" target="_blank"><img src="#" width="400" alt="Ecommerce en Blazor"></a>
 <p>
 <a href="#" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
@@ -85,7 +85,7 @@ productos, lotes,registro de ingresos , registros de salidas, reportes , grafico
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
 </a>
 </p>
-<p>Lorem isum ....</p>
+<p>Este proyecto aun está en desarrollo, pero tienen acceso al codigo para poder ver el proceso de construccion</p>
 </div>
                                                                                       
 </td>  
