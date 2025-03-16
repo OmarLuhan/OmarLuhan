@@ -47,11 +47,49 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Implementación de una arquitectura en n capas con un diseño arquitectónico basado en una <strong>API RESTful<strong>.
+</p>Implementación de una arquitectura en n capas con un diseño arquitectónico basado en una <strong>API RESTful</strong>.
 Este proyecto aplica conceptos como inyección de dependencias, ORMs, mapeadores, validadores, autenticación, autorización y documentación</p>
 </div>                                                             
 </table>                                                                                 
 </div>                                                                              
+</div>
+<br>
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">APP React flow bite</h3>
+<div align="center">
+<a href="#" target="_blank"><img src="#" width="400" alt="Panel React"></a>
+<p>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>Implementacion de un panel de administracion utilizando <strong>React</strong> en una arquitectura de componetes.El sistema permite administrar 
+productos, lotes,registro de ingresos , registros de salidas, reportes , graficos en tiempo real y roles </p>
+</div>
+                                                                                      
+</td>       
+<td width="50%">
+<h3 align="center">Futuro proyecto en Blazor</h3>
+<div align="center">
+<a href="#" target="_blank"><img src="#" width="400" alt="Panel de administracion en Blazor"></a>
+<p>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+</a>
+</p>
+<p>Lorem isum ....</p>
+</div>
+                                                                                      
+</td>  
+</table>                                                                                 
 </div>
 <br>
 
