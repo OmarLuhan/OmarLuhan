@@ -96,7 +96,7 @@ productos, lotes,registro de ingresos , registros de salidas, reportes , grafico
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/OmarLuhan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=OmarLuhan&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Omarluhan&layout=compact&langs_count=8&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=OmarLuhan&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Omarluhan&layout=compact&langs_count=8&theme=onedark"/>
 </a>
 </p>
