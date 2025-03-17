@@ -76,7 +76,7 @@ productos, lotes,registro de ingresos , registros de salidas, reportes , grafico
 <td width="50%">
 <h3 align="center">Neuronal Network cpp</h3>
 <div align="center">
-<a href="https://gist.github.com/OmarLuhan/1fc783cfed8a6044e7886af283e90224" target="_blank"><img src="https://imgur.com/UzmBLiq.png" width="400" alt="Red neuronal"></a>
+<a href="https://gist.github.com/OmarLuhan/1fc783cfed8a6044e7886af283e90224" target="_blank"><img src="https://imgur.com/hWMYvZ1.png" width="400" alt="Red neuronal"></a>
 <p>
 <a href="https://gist.github.com/OmarLuhan/1fc783cfed8a6044e7886af283e90224" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
