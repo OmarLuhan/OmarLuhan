@@ -85,8 +85,7 @@ productos, lotes,registro de ingresos , registros de salidas, reportes , grafico
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
 </a>
 </p>
-<p>Red neuronal simple  sin dependencias escrito en <strong> C++ plus plus </strong> : 
-predice efectivamente kg a lb </p>
+<p>Red neuronal simple escrita en c++ , la funcion principal es predecir el peso de kilo gramos a libras , luego de haber sido entrenadas con dos vectores de datos</p>
 </div>
                                                                                       
 </td>  
