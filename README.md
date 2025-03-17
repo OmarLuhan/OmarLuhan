@@ -74,18 +74,19 @@ productos, lotes,registro de ingresos , registros de salidas, reportes , grafico
                                                                                       
 </td>       
 <td width="50%">
-<h3 align="center">E commerce Blazor</h3>
+<h3 align="center">Neuronal Network cpp</h3>
 <div align="center">
-<a href="#" target="_blank"><img src="#" width="400" alt="Ecommerce en Blazor"></a>
+<a href="https://gist.github.com/OmarLuhan/1fc783cfed8a6044e7886af283e90224" target="_blank"><img src="https://imgur.com/cIRJWfH.png" width="400" alt="Red neuronal"></a>
 <p>
-<a href="#" target="_blank">
+<a href="https://github.com/OmarLuhan/neural-network.git" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtube.com/@luhan-omar?sub_confirmation=1" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
 </a>
 </p>
-<p>Este proyecto aun está en desarrollo, pero tienen acceso al codigo para poder ver el proceso de construccion</p>
+<p>Red neuronal simple  sin dependencias escrito en <strong> C++ plus plus </strong> : 
+predice efectivamente kg a lb </p>
 </div>
                                                                                       
 </td>  
