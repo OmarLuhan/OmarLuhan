@@ -74,18 +74,18 @@ productos, lotes,registro de ingresos , registros de salidas, reportes , grafico
                                                                                       
 </td>       
 <td width="50%">
-<h3 align="center">Neuronal Network cpp</h3>
+<h3 align="center">Ecommerce blazor webAsambly </h3>
 <div align="center">
-<a href="https://gist.github.com/OmarLuhan/1fc783cfed8a6044e7886af283e90224" target="_blank"><img src="https://imgur.com/hWMYvZ1.png" width="400" alt="Red neuronal"></a>
+<a href="https://github.com/OmarLuhan/Ecommerce.git" target="_blank"><img src="https://imgur.com/hrBR5oy.png" width="400" alt="Red neuronal"></a>
 <p>
-<a href="https://gist.github.com/OmarLuhan/1fc783cfed8a6044e7886af283e90224" target="_blank">
+<a href="https://github.com/OmarLuhan/Ecommerce.git" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtube.com/@luhan-omar?sub_confirmation=1" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
 </a>
 </p>
-<p>Red neuronal simple escrita en c++ , la funcion principal es predecir el peso de kilo gramos a libras , luego de haber sido entrenadas con dos vectores de datos</p>
+<p>SPA Ecommerce  desarrollada utilizando el entorno de desarrollo .net y el framework blazor webasambly</p>
 </div>
                                                                                       
 </td>  
