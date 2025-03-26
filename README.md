@@ -85,7 +85,7 @@ productos, lotes,registro de ingresos , registros de salidas, reportes , grafico
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
 </a>
 </p>
-<p>SPA Ecommerce  desarrollada utilizando el entorno de desarrollo .net y el framework blazor webasambly</p>
+<p>SPA Ecommerce  desarrollada utilizando el entorno de desarrollo .net y el framework blazor webassembly</p>
 </div>
                                                                                       
 </td>  
