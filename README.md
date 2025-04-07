@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://vlu.code">Luhan</a> 👋</h1>
 </div>
-<img src="https://imgur.com/DO2K6v1.png">
+<img src="https://imgur.com/3O65jbx.png">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCR4OxTu8pEuxW0Ip1R8p3hQ?style=social)](https://youtube.com/@luhan-omar?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/omarluhan?style=social)](https://github.com/OmarLuhan)
@@ -19,7 +19,7 @@
 <td width="50%">
 <h3 align="center">AI chat con Deepsek</h3>
 <div align="center">
-<a href="https://imgur.com/8wnhen9" target="_blank"><img src="https://imgur.com/3O65jbx.png" width="400" alt="Programa AI con DeepSeek"></a>
+<a href="https://imgur.com/8wnhen9" target="_blank"><img src="https://imgur.com/UzmBLiq.png" width="400" alt="Programa AI con DeepSeek"></a>
 <p>
 <a href="https://github.com/OmarLuhan/ai-chat.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
