@@ -19,7 +19,7 @@
 <td width="50%">
 <h3 align="center">AI chat con Deepsek</h3>
 <div align="center">
-<a href="https://imgur.com/8wnhen9" target="_blank"><img src="https://imgur.com/UzmBLiq.png" width="400" alt="Programa AI con DeepSeek"></a>
+<a href="https://imgur.com/8wnhen9" target="_blank"><img src="https://imgur.com/3O65jbx.png" width="400" alt="Programa AI con DeepSeek"></a>
 <p>
 <a href="https://github.com/OmarLuhan/ai-chat.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
