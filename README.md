@@ -55,19 +55,20 @@ repository,orm entity framework,base de datos mysql + integracion con react </p>
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">APP React flow bite</h3>
+<h3 align="center">Sitemas distribuidos distribt</h3>
 <div align="center">
-<a href="#" target="_blank"><img src="https://imgur.com/davqCL6.png" width="350" alt="Panel React"></a>
+<a href="https://github.com/OmarLuhan/Distribt.git" target="_blank"><img src="https://imgur.com/BIdbeKJ.png" width="350" alt="diseño sitema distribuido"></a>
 <p>
-<a href="https://github.com/OmarLuhan/Pharmacy-web.git" target="_blank">
+<a href="https://github.com/OmarLuhan/Distribt.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtube.com/@luhan-omar?sub_confirmation=1" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Implementacion de un panel de administracion utilizando <strong>React</strong> en una arquitectura de componetes.El sistema permite administrar 
-productos, lotes,registro de ingresos , registros de salidas, reportes , graficos en tiempo real y roles </p>
+<p>Actualmente desarrollando un curso avanzado de <strong>sitemas ditribuidos</strong> dotnet
+curso expueso por Iván Abad <strong>Microsoft MVP</strong> 
+</p>
 </div>
                                                                                       
 </td>       
