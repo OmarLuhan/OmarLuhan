@@ -19,7 +19,7 @@
 <td width="50%">
 <h3 align="center">AI chat con Deepsek</h3>
 <div align="center">
-<a href="https://imgur.com/8wnhen9" target="_blank"><img src="https://imgur.com/UzmBLiq.png" width="400" alt="Programa AI con DeepSeek"></a>
+<a href="https://imgur.com/8wnhen9" target="_blank"><img src="https://imgur.com/UzmBLiq.png" width="350" alt="Programa AI con DeepSeek"></a>
 <p>
 <a href="https://github.com/OmarLuhan/ai-chat.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -37,7 +37,7 @@
                <br>
 <h3 align="center">API Rest con arquitectura N capas</h3>
 <div align="center">                                       
-<a href="https://crisfarma.net.pe" target="_blank"><img src="https://imgur.com/iuGdHyV.png" width="400" alt="API Rest N Capas"></a>
+<a href="https://crisfarma.net.pe" target="_blank"><img src="https://imgur.com/iuGdHyV.png" width="350" alt="API Rest N Capas"></a>
 <br>
 <p>
 <a href="https://github.com/OmarLuhan/Pharmacy-API.git" target="_blank">
@@ -59,7 +59,7 @@ Este proyecto aplica conceptos como inyección de dependencias, ORMs, mapeadores
 <td width="50%">
 <h3 align="center">APP React flow bite</h3>
 <div align="center">
-<a href="#" target="_blank"><img src="https://imgur.com/davqCL6.png" width="400" alt="Panel React"></a>
+<a href="#" target="_blank"><img src="https://imgur.com/davqCL6.png" width="350" alt="Panel React"></a>
 <p>
 <a href="https://github.com/OmarLuhan/Pharmacy-web.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -76,7 +76,7 @@ productos, lotes,registro de ingresos , registros de salidas, reportes , grafico
 <td width="50%">
 <h3 align="center">Ecommerce blazor webAsambly </h3>
 <div align="center">
-<a href="https://github.com/OmarLuhan/Ecommerce.git" target="_blank"><img src="https://imgur.com/hrBR5oy.png" width="400" alt="Red neuronal"></a>
+<a href="https://github.com/OmarLuhan/Ecommerce.git" target="_blank"><img src="https://imgur.com/hrBR5oy.png" width="350" alt="Red neuronal"></a>
 <p>
 <a href="https://github.com/OmarLuhan/Ecommerce.git" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
