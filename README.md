@@ -31,9 +31,9 @@
 <p>Implementa IA usando modelos locales con ollama, asistente virtual configurado
 con C# dotnet: modelos compatibles deepsek,llama3,gemini,chatgtp;
 condigo disponible (tomar como base)</p>
-</div>
-                                                                                      
-</td>       
+</div>                                                                                
+</td>   
+  
 <td width="50%">
 <h3 align="center">Api rest full sistema farmacia </h3>
 <div align="center">
@@ -48,8 +48,7 @@ condigo disponible (tomar como base)</p>
 </p>
 <p>Api rest full sitema farmacia con dotnet 8 ,arquitectura n capas, patron de diseño
 repository,orm entity framework,base de datos mysql + integracion con react </p>
-</div>
-                                                                                      
+</div>                                                                                 
 </td>  
 </table>                                                                               
 
