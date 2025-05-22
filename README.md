@@ -85,10 +85,45 @@ curso expueso por Iván Abad <strong>Microsoft MVP</strong>
 </a>
 </p>
 <p>SPA Ecommerce  desarrollada utilizando el entorno de desarrollo .net y el framework blazor webassembly</p>
+</div>                                                                                 
+</td>  
+</table>    
+<br>
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Ecomerce angular typescript</h3>
+<div align="center">
+<a href="#" target="_blank"><img src=".png" width="350" alt="ecommerce angular"></a>
+<p>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtube.com/@luhan-omar?sub_confirmation=1" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>SPA Ecommerce  desarrollada utilizando el entorno de desarrollo node y el framework angular typescript</strong> 
+</p>
 </div>
                                                                                       
+</td>       
+<td width="50%">
+<h3 align="center">Ecommerce blazor webAsambly </h3>
+<div align="center">
+<a href="https://github.com/OmarLuhan/Ecommerce.git" target="_blank"><img src="https://imgur.com/hrBR5oy.png" width="350" alt="Red neuronal"></a>
+<p>
+<a href="https://github.com/OmarLuhan/Ecommerce.git" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtube.com/@luhan-omar?sub_confirmation=1" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+</a>
+</p>
+<p>SPA Ecommerce  desarrollada utilizando el entorno de desarrollo .net y el framework blazor webassembly</p>
+</div>                                                                                 
 </td>  
-</table>                                                                                 
+</table>  
 </div>
 <br>
 
