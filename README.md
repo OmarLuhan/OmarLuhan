@@ -29,8 +29,7 @@
 </a>
 </p>
 <p>Implementa IA usando modelos locales con ollama, asistente virtual configurado
-con C# dotnet: modelos compatibles deepsek,llama3,gemini,chatgtp;
-condigo disponible (tomar como base)</p>
+con C# dotnet: modelos compatibles deepsek ...</p>
 </div>                                                                                
 </td>   
   
