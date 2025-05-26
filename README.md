@@ -45,7 +45,7 @@ con C# dotnet: modelos compatibles deepsek ...</p>
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
 </a>
 </p>
-<p>Api rest full sitema farmacia con dotnet 8 ,arquitectura n capas, patron de diseño
+<p>Api rest full sitema farmacia con dotnet 8 ,arquitectura modular enfocada en el dominio, patron de diseño
 repository,orm entity framework,base de datos mysql + integracion con react </p>
 </div>                                                                                 
 </td>  
