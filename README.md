@@ -19,7 +19,7 @@
 <td width="50%">
 <h3 align="center">IA  integracion local con ollama [deepsek]</h3>
 <div align="center">
-<a href="https://github.com/OmarLuhan/ai-chat.git" target="_blank"><img src="https://imgur.com/ZUj1Tru.png" width="350" alt="Images de ia con rostro umano"></a>
+<a href="https://github.com/OmarLuhan/ai-chat.git" target="_blank"><img src="https://imgur.com/gallery/core-driven-architecture-zRl6QGA#M5A9rb0.png" width="350" alt="Images de ia con rostro umano"></a>
 <p>
 <a href="https://github.com/OmarLuhan/ai-chat.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
