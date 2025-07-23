@@ -28,8 +28,8 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Implementa IA usando modelos locales con ollama, asistente virtual configurado
-con C# dotnet: modelos compatibles deepsek ...</p>
+<p>Implementando <strong>core driven architecture</strong> basada en clean architecture, exagonal and layered architecture
+tambien esta arquitectura por su diceño nos obliga a usar <strong>CQRS</strong></p>
 </div>                                                                                
 </td>   
   
