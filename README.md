@@ -17,11 +17,11 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">IA  integracion local con ollama [deepsek]</h3>
+<h3 align="center">CORE DRIVEN ARCHITECTURE</h3>
 <div align="center">
-<a href="https://github.com/OmarLuhan/ai-chat.git" target="_blank"><img src="https://imgur.com/gallery/core-driven-architecture-zRl6QGA#M5A9rb0.png" width="350" alt="Images de ia con rostro umano"></a>
+<a href="https://github.com/OmarLuhan/CoreDriven.git" target="_blank"><img src="https://imgur.com/M5A9rb0.png" width="350" alt="diagrama de core-driven"></a>
 <p>
-<a href="https://github.com/OmarLuhan/ai-chat.git" target="_blank">
+<a href="https://github.com/OmarLuhan/CoreDriven.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtube.com/@luhan-omar?sub_confirmation=1" target="_blank">
