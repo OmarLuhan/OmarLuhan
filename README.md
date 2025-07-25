@@ -45,8 +45,8 @@ tambien esta arquitectura por su diceño nos obliga a usar <strong>CQRS</strong>
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
 </a>
 </p>
-<p>Api rest full sitema farmacia con dotnet 8 ,arquitectura modular enfocada en el dominio, patron de diseño
-repository,orm entity framework,base de datos mysql + integracion con react </p>
+<p> Sistema de administracion para farmacias, backend .net 8 lts con core driven architecture, respository pattern , tareas en segudo plano 
+y mysql, frontend vite react js</p>
 </div>                                                                                 
 </td>  
 </table>                                                                               
