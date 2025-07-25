@@ -45,8 +45,8 @@ tambien esta arquitectura por su diceño nos obliga a usar <strong>CQRS</strong>
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
 </a>
 </p>
-<p> Sistema de administracion para farmacias, backend .net 8 lts con core driven architecture, respository pattern , tareas en segudo plano 
-y mysql, frontend vite react js</p>
+<p> Sistema de administracion para farmacias, backend <strong>dotnet 8  core driven architecture</strong>, respository pattern , tareas en segudo plano 
+y mysql, <strong>frontend vite react js</strong></p>
 </div>                                                                                 
 </td>  
 </table>                                                                               
