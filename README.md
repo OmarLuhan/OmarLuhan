@@ -3,14 +3,14 @@
 </div>
 <img src="https://imgur.com/3O65jbx.png">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCR4OxTu8pEuxW0Ip1R8p3hQ?style=social)](https://youtube.com/@luhan-omar?sub_confirmation=1)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCR4OxTu8pEuxW0Ip1R8p3hQ?style=social)](https://youtube.com/@omarluhan?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/omarluhan?style=social)](https://github.com/OmarLuhan)
 
 ## Sobre mi
 
 - ✒️ Software engineer 
 - 💻 Backend developer 
-- 🎥 Te enseño a programar servidores [Youtube](https://youtube.com/@luhan-omar?sub_confirmation=1) (+200 subs)
+- 🎥 Te enseño a programar servidores [Youtube](https://youtube.com/@omarluhan?sub_confirmation=1) (+200 subs)
   <br>
 
 ## Proyectos *Geniales*
@@ -87,43 +87,7 @@ curso expueso por Iván Abad <strong>Microsoft MVP</strong>
 <p>SPA Ecommerce  desarrollada utilizando el entorno de desarrollo .net y el framework blazor webassembly</p>
 </div>                                                                                 
 </td>  
-</table>    
-<br>
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Ecomerce angular typescript</h3>
-<div align="center">
-<a href="#" target="_blank"><img src=".png" width="350" alt="ecommerce angular"></a>
-<p>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtube.com/@luhan-omar?sub_confirmation=1" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-<p>SPA Ecommerce  desarrollada utilizando el entorno de desarrollo node y el framework angular typescript</strong> 
-</p>
-</div>
-                                                                                      
-</td>       
-<td width="50%">
-<h3 align="center">Sistema administracion famacia react</h3>
-<div align="center">
-<a href="#" target="_blank"><img src=".png" width="350" alt="react"></a>
-<p>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtube.com/@luhan-omar?sub_confirmation=1" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
-</a>
-</p>
-<p>Sitema administracion farmacia react</p>
-</div>                                                                                 
-</td>  
-</table>  
+</table>      
 </div>
 <br>
 
