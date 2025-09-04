@@ -57,9 +57,9 @@ y mysql, <strong>frontend vite react js</strong></p>
 <td width="50%">
 <h3 align="center">Sitemas distribuidos distribt</h3>
 <div align="center">
-<a href="https://github.com/OmarLuhan/Distribt.git" target="_blank"><img src="https://imgur.com/BIdbeKJ.png" width="350" alt="diseño sitema distribuido"></a>
+<a href="https://github.com/OmarLuhan/Distrib.git" target="_blank"><img src="https://imgur.com/BIdbeKJ.png" width="350" alt="diseño sitema distribuido"></a>
 <p>
-<a href="https://github.com/OmarLuhan/Distribt.git" target="_blank">
+<a href="https://github.com/OmarLuhan/Distrib.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtube.com/@luhan-omar?sub_confirmation=1" target="_blank">
