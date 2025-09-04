@@ -24,7 +24,7 @@
 <a href="https://github.com/OmarLuhan/CoreDriven.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtube.com/@luhan-omar?sub_confirmation=1" target="_blank">
+<a href="https://youtube.com/@omarluhan?sub_confirmation=1" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
@@ -41,7 +41,7 @@ tambien esta arquitectura por su diceño nos obliga a usar <strong>CQRS</strong>
 <a href="https://github.com/OmarLuhan/PharmaApi.git" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtube.com/@luhan-omar?sub_confirmation=1" target="_blank">
+<a href="https://youtube.com/@omarluhan?sub_confirmation=1" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
 </a>
 </p>
@@ -62,7 +62,7 @@ y mysql, <strong>frontend vite react js</strong></p>
 <a href="https://github.com/OmarLuhan/Distrib.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtube.com/@luhan-omar?sub_confirmation=1" target="_blank">
+<a href="https://youtube.com/@omarluhan?sub_confirmation=1" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
@@ -80,7 +80,7 @@ curso expueso por Iván Abad <strong>Microsoft MVP</strong>
 <a href="https://github.com/OmarLuhan/Ecommerce.git" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtube.com/@luhan-omar?sub_confirmation=1" target="_blank">
+<a href="https://youtube.com/@omarluhan?sub_confirmation=1" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
 </a>
 </p>
