@@ -21,7 +21,7 @@
       <h3 align="center">CORE DRIVEN ARCHITECTURE</h3>
       <div align="center">
         <a href="https://github.com/OmarLuhan/CoreDriven.git" target="_blank">
-          <img src="https://imgur.com/M5A9rb0.png" width="350" height="165"  alt="Diagrama de core-driven">
+          <img src="https://imgur.com/M5A9rb0.png" width="350" height="197" alt="Diagrama de core-driven">
         </a>
         <p>
           <a href="https://github.com/OmarLuhan/CoreDriven.git" target="_blank">
@@ -38,7 +38,7 @@
       <h3 align="center">Api rest full Coren driven Achitecture</h3>
       <div align="center">
         <a href="https://github.com/OmarLuhan/PharmaApi.git" target="_blank">
-          <img src="https://imgur.com/68gXOGZ.png" width="350" alt="Sistema Farmacia">
+          <img src="https://imgur.com/68gXOGZ.png" width="350" height="197" alt="Sistema Farmacia">
         </a>
         <p>
           <a href="https://github.com/OmarLuhan/PharmaApi.git" target="_blank">
@@ -59,7 +59,7 @@
       <h3 align="center">Opengl graficos en 3d</h3>
       <div align="center">
         <a href="https://github.com/OmarLuhan/dragon-openlg.git" target="_blank">
-          <img src="https://github.com/user-attachments/assets/41b02c7b-1d21-4068-abf3-8e1b99c6e9ee" width="350" height="165" alt="Diseño sistema distribuido">
+          <img src="https://github.com/user-attachments/assets/41b02c7b-1d21-4068-abf3-8e1b99c6e9ee" width="350" height="197" alt="Diseño sistema distribuido">
         </a>
         <p>
           <a href="https://github.com/OmarLuhan/dragon-openlg.git" target="_blank">
@@ -76,7 +76,7 @@
       <h3 align="center">Landing page Luhan technology</h3>
       <div align="center">
         <a href="https://omarluhan.github.io/luhan/" target="_blank">
-          <img src="https://imgur.com/yjzsb0O.png" width="350"  alt="Ecommerce">
+          <img src="https://imgur.com/yjzsb0O.png" width="350" height="197" alt="Ecommerce">
         </a>
         <p>
           <a href="https://github.com/OmarLuhan/luhan.git" target="_blank">
@@ -98,7 +98,7 @@
       <h3 align="center">Sistemas Distribuidos Distrib</h3>
       <div align="center">
         <a href="https://github.com/OmarLuhan/Distrib.git" target="_blank">
-          <img src="https://imgur.com/BIdbeKJ.png" width="350"height="165" alt="Diseño sistema distribuido">
+          <img src="https://imgur.com/BIdbeKJ.png" width="350" height="197" alt="Diseño sistema distribuido">
         </a>
         <p>
           <a href="https://github.com/OmarLuhan/Distrib.git" target="_blank">
@@ -115,7 +115,7 @@
       <h3 align="center">Sitema e-commerce  Blazor WebAssembly</h3>
       <div align="center">
         <a href="https://github.com/OmarLuhan/Ecommerce.git" target="_blank">
-          <img src="https://imgur.com/hrBR5oy.png" width="350"  alt="Ecommerce">
+          <img src="https://imgur.com/hrBR5oy.png" width="350" height="197" alt="Ecommerce">
         </a>
         <p>
           <a href="https://github.com/OmarLuhan/Ecommerce.git" target="_blank">
