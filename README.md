@@ -86,7 +86,7 @@
             <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
           </a>
         </p>
-        <p>sitema de prueba tienda en linea  .NET y el framework Blazor WebAssembly</p>
+        <p>landing page de @luhan , en prceso de creacion</p>
       </div>
     </td>
   </tr>
