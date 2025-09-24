@@ -112,22 +112,21 @@
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Sitema e-commerce  Blazor WebAssembly</h3>
+      <h3 align="center">Servidor mcp(model context protocol) para enviar emails</h3>
       <div align="center">
-        <a href="https://github.com/OmarLuhan/Ecommerce.git" target="_blank">
-          <img src="https://imgur.com/hrBR5oy.png" width="350" height="197" alt="Ecommerce">
+        <a href="https://github.com/OmarLuhan/EmailMcp.git" target="_blank">
+          <img src="https://imgur.com/hWMYvZ1.png" width="350" height="197" alt="servidor mcp">
         </a>
         <p>
-          <a href="https://github.com/OmarLuhan/Ecommerce.git" target="_blank">
+          <a href="https://github.com/OmarLuhan/EmailMcp.git" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
           </a>
           <a href="https://youtube.com/@omarluhan?sub_confirmation=1" target="_blank">
             <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
           </a>
         </p>
-        <p>sitema de prueba tienda en linea  .NET y el framework Blazor WebAssembly ...............................
-        ....................................
-        ........................................................</p>
+        <p>funcuines y herramientas: envia email , busca contactos , registra nuevos contactos, 
+        se coneta con gemini o claude-ai</p>
       </div>
     </td>
   </tr>
