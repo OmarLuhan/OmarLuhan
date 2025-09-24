@@ -125,7 +125,7 @@
             <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
           </a>
         </p>
-        <p>funcuines y herramientas: envia email , busca contactos , registra nuevos contactos, 
+        <p>funciones y herramientas: envia email , busca contactos , registra nuevos contactos, 
         se coneta con gemini o claude-ai</p>
       </div>
     </td>
